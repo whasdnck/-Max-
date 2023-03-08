@@ -1,5 +1,6 @@
 # -Max-
 
+## MAX 코드
 package sungil21102algo;
 
 import java.util.Scanner;
